@@ -22,11 +22,11 @@ Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github
 
 ## Utilizando o run.codes [EM CONSTRUÇÃO]
 
-1. [Cadastro no sistema](docs/cadastro.md)
+1. [Cadastro no sistema](cadastro.md)
 
 
 ## Informações
 
-1. ##### [Termos de uso](docs/TermosDeUso.md)
+1. ##### [Termos de uso](TermosDeUso.md)
 
-2. ##### [FAQ](docs/FAQ.md)
+2. ##### [FAQ](FAQ.md)
