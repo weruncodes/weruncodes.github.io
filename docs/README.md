@@ -1,6 +1,6 @@
 # Wiki - run.codes
 
-## FAQ
+## Sobre
 
 **O que é o run.codes?**
 
@@ -22,8 +22,11 @@ Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github
 
 ## Utilizando o run.codes [EM CONSTRUÇÃO]
 
-1. [Cadastro no sistema](cadastro.md)
+1. [Cadastro no sistema](docs/cadastro.md)
 
 
-## Licença
-1. [Termos de uso](TermosDeUso.md)
+## Informações
+
+1. ##### [Termos de uso](docs/TermosDeUso.md)
+
+2. ##### [FAQ](docs/TermosDeUso.md)
