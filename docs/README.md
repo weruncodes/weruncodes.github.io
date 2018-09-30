@@ -27,6 +27,6 @@ Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github
 
 ## Informações
 
-1. ##### [Termos de uso](TermosDeUso.md)
+1. [Termos de uso](TermosDeUso.md)
 
-2. ##### [FAQ](FAQ.md)
+2. [FAQ](FAQ.md)
