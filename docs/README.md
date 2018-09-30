@@ -16,10 +16,14 @@ Se cadastre no site https://run.codes. Se você é professor de uma instituiçã
 
 **Suporte**
 
-Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github (https://github.com/weruncodes/weruncodes.github.io/issues) ou enviar um e-mail para support@run.codes caso envolva dados pessoais. A equipe do run.codes irá ignorar qualquer mensagem sobre dúvida de programação (você deve contactar o seu professor para solucionar dúvidas). Caso o seu código esteja apresentando um comportamento no run.codes diferente de quando executado localmente, também é dever do professor verificar se isso se trata de um erro de programação, e comunicar o suporte se suspeitar de falha do sistema. 
+Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github (https://github.com/weruncodes/weruncodes.github.io/issues) ou enviar um e-mail para support@run.codes caso envolva dados pessoais. A equipe do run.codes irá ignorar qualquer mensagem sobre dúvida de programação (você deve contactar o seu professor para solucionar dúvidas). Caso o seu código esteja apresentando um comportamento no run.codes diferente de quando executado localmente, também é dever do professor verificar se isso se trata de um erro de programação, e comunicar o suporte se suspeitar de falha do sistema.
 
 ---
 
 ## Utilizando o run.codes [EM CONSTRUÇÃO]
 
 1. [Cadastro no sistema](cadastro.md)
+
+
+## Licença
+1. [Termos de uso](TermosDeUso.md)
