@@ -15,7 +15,7 @@ Se você é professor de uma Instituição de Ensino Pública, basta nos enviar 
 
 **Sou aluno, como faço para usar o [run.codes](read.me)?**
 
-Se sua Instituição de Ensino já está cadastrada, acesse run.codes. Caso contrário, converse com seu professor sobre as vantagens do [run.codes].
+Se sua Instituição de Ensino já está cadastrada, acesse run.codes. Caso contrário, converse com seu professor sobre as vantagens do **run.codes**.
 
 **É possível incorporar novas linguagens e bibliotecas ao [run.codes](read.me)?**
 
