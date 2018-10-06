@@ -1,9 +1,11 @@
 ## Cadastro no run.codes
 
+### Geral
+
 1. Acesse o endereço https://run.codes
 2. Clique no botão "Cadastre-se Agora!"
 3. Preencha seus dados de cadastro
-4. Clique em Enviar
+4. Clique em "Enviar"
 
 ![Tela de Cadastro](images/cadastro.png)
 
