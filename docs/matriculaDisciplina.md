@@ -1,4 +1,4 @@
-## Matrícula em Disciplina
+# Matrícula em Disciplina
 
 1. Acesse sua home page https://run.codes/home
 
