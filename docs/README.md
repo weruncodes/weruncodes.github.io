@@ -1,10 +1,10 @@
 # Wiki - run.codes
 
-## FAQ
+## Sobre
 
 **O que é o run.codes?**
 
-run.codes é um sistema de submissão e correção automática de exercícios de programação, com suporte a diversas linguagens como Python, Java, C/C++, R, Portugol, entre outras.
+O run.codes é um sistema de submissão e correção automática de exercícios de programação, com suporte a diversas linguagens como Python, Java, C/C++, R, Portugol, entre outras.
 
 **Quem pode utilizar o run.codes?**
 
@@ -22,8 +22,14 @@ Para reportar qualquer problema, você pode utilizar o *Issue Tracker* do github
 
 ## Utilizando o run.codes [EM CONSTRUÇÃO]
 
-1. [Cadastro no sistema](cadastro.md)
+1. [Cadastro no sistema](cadastroProfessor.md) [Professor]
+2. [Cadastro no sistema](cadastroAluno.md) [Aluno]
+3. [Matrícula em disciplina](matriculaDisciplina.md) [Aluno]
+4. [Novo Exercício](novoExercicio.md) [Professor / Monitor]
 
 
-## Licença
+## Informações [EM CONSTRUÇÃO]
+
 1. [Termos de uso](TermosDeUso.md)
+
+2. [FAQ](FAQ.md)
