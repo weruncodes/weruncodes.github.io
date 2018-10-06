@@ -4,7 +4,7 @@
 
 ![HomePage](images/homescreen.png)
 
-2. Digite o código que recebeu em "Código de Matrícula"
+2. Digite o código que recebeu em "Código de Matrícula" (Caso ainda não tenha criado uma disciplina, consulte [Cadastro Professor](cadastroProfessor.md)).
 
 
 3. Clique em "Matricular"
