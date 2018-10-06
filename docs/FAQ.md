@@ -1,9 +1,9 @@
-## FAQ
+# FAQ
 
 Você possui alguma dúvida? Confira aqui mais informações sobre o run.codes
 
 
-**Como fazer para minha Instituição de Ensino utilizar o [run.codes](read.me)?**
+**Como fazer para minha Instituição de Ensino utilizar o [run.codes](.../read.me)?**
 
 O **run.codes** está disponível de forma gratuita apenas para Instituições de Ensino públicas. Se este for seu caso, basta que um dos professores entre em contato e comprove seu vínculo. Em seguida, iremos habilitar o cadastro de disciplinas, exercícios e todos nossos recursos para a correção, teste e validação automática de programas de computador.
 
